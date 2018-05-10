@@ -1,0 +1,1082 @@
+<?xml version="1.0"?>
+<presentation title="Fire-Final" width="960.0000000" height="540.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{1BF134AB-5AE5-42AC-A23A-08B9567BC133}">
+	<presenters/>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets/>
+	<playlists/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<currentTemplate baseId="CONTENT_ONLY"/>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>false</showPlayPause>
+				<showRewind>false</showRewind>
+				<showVolumeControl>false</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>false</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>false</visible>
+				<buttons>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>false</numberEntries>
+				<highlightViewedEntries>false</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>false</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>false</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>true</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="228353" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Fire Safety Training</text>
+		</slide>
+		<slide index="1" title="Introduction" titleNormalized="introduction" src="slide2.swf" size="2358" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Introduction
+Every year there are approximately 400 fires in UK universities, more than a third of these fires occurring in non-residential buildings. In order to ensure the safety of staff, students and visitors in a fire, it is essential that all staff and students know how to react in the event of a fire or fire alarm at the University. 
+
+As well as the moral obligation in ensuring the safety of our employees, students and visitors whilst they are on campus, the University also has a legal duty under the Regulatory Reform (Fire Safety) Order 2005. This duty is that we provide all employees with regular (the university requires this to be completed annually) fire safety training, which includes, the procedures and provisions that are in place. 
+
+The University is committed delivering this training to all new staff, in the form of a workplace-specific induction course delivered by the Head of School or a nominated deputy and existing staff as refresher training at regular intervals. 
+
+This online training course has been developed to provide detailed information on fire safety in the workplace and is additional to the workplace-specific fire briefing that each employee must receive when starting work at UEA. 
+
+This course should take approximately 30 minutes to complete.</text>
+		</slide>
+		<slide index="2" title="Training Outcomes" titleNormalized="training outcomes" src="slide3.swf" size="2283" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Training Outcomes
+By the end of the course, you will understand the following:
+
+University fires
+Legislation requirement
+What fire is
+The major causes of fire and prevent/control measures
+Fire Statistics
+Automatic fire alarm and detection systems
+Requirements for fire resisting doors
+The importance of maintaining escape routes and fire exits
+How to react to finding a fire and to hearing the fire alarm
+The role of the Fire Wardens
+The importance of fire drills
+The correct fire extinguisher to select, should you need to use one
+The requirements for a personal emergency evacuation plan</text>
+		</slide>
+		<slide index="3" title="Serious University Fires" titleNormalized="serious university fires" src="slide4.swf" size="94870" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Serious University Fires
+University of Bristol 2018
+
+A fire broke out in the historic Fry Building at the University of Bristol. The building was being renovated at the time of the fire. Bristol University confirmed that everyone was accounted for.</text>
+		</slide>
+		<slide index="4" title="Serious University Fires" titleNormalized="serious university fires" src="slide5.swf" size="66226" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Serious University Fires
+Manchester Fire 2017
+
+A fire broke out at the Unite Students Parkway Gate halls of residence in Manchester in October. The fire started at around 22.45 in the accommodation block. While there were no injuries the building was occupied by students at the time the fire started.</text>
+		</slide>
+		<slide index="5" title="Summary of the Fires" titleNormalized="summary of the fires" src="slide6.swf" size="1667" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Summary of the Fires
+Fires impact in many ways, including the risk to life, especially in residential accommodation. Loss of vital information and research which has taken years to develop, and may not be able to be recovered. 
+Damage to, or loss of a building which could result could result in a reduction of the space available for teaching. Additionally, as demonstrated by the fire in a UEA laboratory in 2014, it could cause massive disruption.</text>
+		</slide>
+		<slide index="6" title="Legislation" titleNormalized="legislation" src="slide7.swf" size="34605" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Legislation
+The Regulatory Reform (Fire Safety) Order 2005
+
+The Regulatory Reform (Fire Safety) Order 2005 is a statutory instrument, applicable only in England and Wales. The Order places the responsibility on individuals within an organisation to carry out risk assessments to identify, manage and reduce the risk of fire.
+
+
+
+
+
+
+
+
+
+
+The order was made into law on June 7 2005 and came into force in October 2006.</text>
+		</slide>
+		<slide index="7" title="What is Fire?" titleNormalized="what is fire?" src="slide8.swf" size="76095" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>What is Fire?
+Fire consists of 3 elements: 
+
+Ignition or heat source
+Fuel 
+Oxygen
+
+The absence of just one of these elements will prevent a fire from starting.
+ 
+Fire has a number of harmful properties:
+
+Flames
+Heat
+Smoke, which can obscure the visibility, makes it difficult to breathe, irritates the eyes and contains highly dangerous toxins that can kill in seconds
+Hot gases, which, when inhaled can burn the nose, throat and lungs</text>
+		</slide>
+		<slide index="8" title="The Major Causes of Fire" titleNormalized="the major causes of fire" src="slide9.swf" size="19230" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The Major Causes of Fire
+There are numerous sources of heat present on a University campus that have the potential to start a fire. Below, in no particular order is a list of the main 5 sources of ignition. 
+
+Deliberate ignition 
+Faulty/misused electrical equipment 
+Cooking 
+Smoking
+Candles</text>
+		</slide>
+		<slide index="9" title="Deliberate Ignition" titleNormalized="deliberate ignition" src="slide10.swf" size="25673" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Deliberate Ignition
+As the University is accessible to the public as well as staff and students, deliberate ignition will always present a risk. A number of incidents have occurred on campus over the years, resulting in damage to buildings and their contents. An example below shows the damage caused when someone deliberately set a fire in one of the Nelson Court common rooms in 2005.
+Control measures that could reduce the risk of deliberate ignition:
+
+Report anything suspicious to Security on Ext 2352 or in an emergency 2222 or 01603 592222
+Ensure that all doors/rooms are correctly secured
+Maintain a good standard of house keeping
+Keep the storage of combustibles to a minimum
+Keep the storage of flammable liquids to a minimum
+Combustibles/flammables to be stored in an appropriate room</text>
+		</slide>
+		<slide index="10" title="Faulty or Misused Electrical Equipment" titleNormalized="faulty or misused electrical equipment" src="slide11.swf" size="36724" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Faulty or Misused Electrical Equipment
+Faulty and misused electrical equipment presents a constant risk to the University, to reduce the risk the following control measures must be followed.
+Portable electrical appliances must be tested by an Electrical Safety Officer or competent electrician (speak to your Head of School/Department)
+Regular visual inspections of personal electrical equipment
+Turn off all unnecessary electrical equipment
+Do not overload extension leads (maximum working load 13Amps)
+Do not use block connector/adaptors
+Only use heavy duty extension leads
+Always follow correct procedures
+
+Failure to follow the control measures may result in a fire, which will put your life and property at risk.</text>
+		</slide>
+		<slide index="11" title="Cooking" titleNormalized="cooking" src="slide12.swf" size="26075" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Cooking
+Many fires in the home and workplace are caused as a result of unattended cooking. As well as the kitchens in the residencies, many of the schools/departments around the campus have cooking equipment, such as toasters and microwaves.
+
+Although cooking with fats and oils present the greater fire risk if left unattended, the toasters and microwaves also present a risk. 
+Ensure that no cooking equipment is left unattended when in use.
+
+Ensure that all cooking appliances are kept clean 
+
+Do not misuse cooking appliances
+
+Do not cook food in residential bedrooms</text>
+		</slide>
+		<slide index="12" title="Smoking" titleNormalized="smoking" src="slide13.swf" size="10688" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Smoking
+Although smoking (including E-cigarette use) is now strictly prohibited in all academic and residential buildings it is still one of the main causes of fire. There are a few control measures that can be taken to reduce the risk of starting a smoking related fire. 
+
+Always comply with the University Smoking Policy.
+Always dispose of cigarette ends into an approved disposal bin.
+Always ensure that cigarette ends are correctly extinguished before disposal.</text>
+		</slide>
+		<slide index="13" title="Candles" titleNormalized="candles" src="slide14.swf" size="62791" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Candles
+Candles are often the cause of fires and as a result their use is banned in all university buildings. The only exception to this is the multi Faith Centre, where strict control measures are in place.
+Several years ago the contents of a study bedroom were lost in such a fire which was caused by a candle. Fortunately no-one was hurt, however there was considerable damage to the content of the room. There is no reason for students or employees to use candles in University buildings.</text>
+		</slide>
+		<slide index="14" title="Use of Naked Flames" titleNormalized="use of naked flames" src="slide15.swf" size="2106" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Use of Naked Flames
+There are areas within the University where naked flames are required to be used, such as Bunsen burners and glass blowing equipment. Any naked flame presents a fire risk, therefore the correct procedures for undertaking such work must be followed to ensure the risk of fire is kept to a minimum.
+
+Before using any naked flame, the following control measures must be adhered to:
+If one has not already been carried out, a risk assessment must be completed for the task
+Before commencing any work, ensure that the area is free from combustibles/flammables that may be ignited during the works process.
+Ensure that all suitable personal protective equipment (PPE) is worn when undertaking any hot process.
+If there is any doubt about safety when using a naked flame process, contact University Safety Services for advice.</text>
+		</slide>
+		<slide index="15" title="Good Housekeeping" titleNormalized="good housekeeping" src="slide16.swf" size="33727" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Good Housekeeping
+Good housekeeping is an essential part of fire prevention. All too often it is easy to neglect your work area and combustible material such as paper and and empty cardboard boxes can accumulate very easily. These items would contribute to rapid fire spread and should therefore be controlled.
+The Office
+
+This is a picture of an office in a UK University. There is a mixture of combustible material along with potential ignition sources (electrical equipment). This is a very poor condition for a workplace and significantly increases the fire risk. 
+
+It is important to remember that good housekeeping is essential in all environments, this includes offices, laboratories, workshops and also residential accommodation. The lower the standard of housekeeping the greater the fire risk.</text>
+		</slide>
+		<slide index="16" title="Good Housekeeping - Control Measures" titleNormalized="good housekeeping - control measures" src="slide17.swf" size="24376" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Good Housekeeping - Control Measures
+Orderly method of stacking in stores where linen, paper or plastic packaging is used, to reduce the risk of fire spread and help in firefighting.
+Storage of equipment, combustibles etc. in designated areas, not in plant rooms, riser cupboards, corridors (escape routes), lobbies, risers, voids etc.
+Ensure that manual call points, fire escapes and fire extinguishers are never blocked
+Waste and unauthorised storage to be dealt with rapidly.
+Regular checks of the workplace to ensure compliance with the above.</text>
+		</slide>
+		<slide index="17" title="Fire Statistics Monitor" titleNormalized="fire statistics monitor" src="slide18.swf" size="3040" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Fire Statistics Monitor
+ Great Britain April 2013 to March 2014
+Total fire deaths 322
+Dwelling fire deaths 258
+Fire deaths other 
+Locations
+64
+Accidental dwelling fire deaths 
+222
+Not accidental
+36</text>
+		</slide>
+		<slide index="18" title="Cause of Fire Deaths" titleNormalized="cause of fire deaths" src="slide19.swf" size="45690" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Cause of Fire Deaths</text>
+		</slide>
+		<slide index="19" title="Automatic Fire Detection Systems" titleNormalized="automatic fire detection systems" src="slide20.swf" size="20661" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Automatic Fire Detection Systems
+All buildings have automatic fire detection systems installed. These systems comprise a mixture of smoke and heat detectors placed strategically in corridors, stairways and in some larger rooms, depending on the use of the room. The detectors may look slightly different depending on their type and age.
+Smoke detector
+Heat detector</text>
+		</slide>
+		<slide index="20" title="Automatic Fire Alarm and Detection System" titleNormalized="automatic fire alarm and detection system" src="slide21.swf" size="2176" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Automatic Fire Alarm and Detection System
+Smoke detectors are very sensitive and will react to the presence of small amounts of smoke well before the smoke reaches dangerous concentrations. These devices are also very sensitive to dust, aerosol etc. Dust or aerosols may lead to a fire alarm activation and as a result of this, the unnecessary evacuation of the building.
+
+To help prevent unnecessary fire alarm activations the control measures listed below are to be followed:
+Do not spray aerosols close or towards a smoke detector
+Where building work is to be carried out Estates/contract staff are to, where necessary fit a detector cover
+Never cover a smoke detector without permission from the Estates department
+Never dust/clean a smoke detector
+Report any damaged smoke detector or works that are likely to set off the detector to your Line Manager, Estates or Safety Services immediately</text>
+		</slide>
+		<slide index="21" title="Automatic Fire Alarm and Detection System" titleNormalized="automatic fire alarm and detection system" src="slide22.swf" size="23133" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Automatic Fire Alarm and Detection System
+When the fire alarm system is activated, the sounders should be loud enough so that they can be heard behind a closed door. Sounders will be either, a red wall-mounted devices or in some more modern buildings, a combined detector/sounder (see below), sounders are located in all corridors and some (not all) rooms.
+Individual sounder
+ 
+
+Combined detector and sounder</text>
+		</slide>
+		<slide index="22" title="Automatic Fire Alarm and Detection System" titleNormalized="automatic fire alarm and detection system" src="slide23.swf" size="28778" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Automatic Fire Alarm and Detection System
+In some of the larger buildings where there are connecting walkways and/or doors, flashing beacon systems and signage have been installed. This is to give warning of a fire alarm activation in the adjoining compartment. If a beacon is flashing, it means that you must NOT enter that area (the alarm will also be sounding) as it may be compromised by fire. These beacons are distinct from those installed in certain rooms which are intended to warn hearing-impaired individuals that the fire alarm is sounding.</text>
+		</slide>
+		<slide index="23" title="Automatic Fire Alarm and Detection System" titleNormalized="automatic fire alarm and detection system" src="slide24.swf" size="75973" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Automatic Fire Alarm and Detection System
+In the event that a fire is discovered before a detector has activated, a manual break glass call point is available at each final storey (staircases) or compartment exit. The device is activated by the application of firm thumb pressure onto the glass, when the call point is activated the alarm will sound throughout the building. Notices detailing what action should be taken in the event of a fire and where to assemble can be found adjacent to these manual call points.</text>
+		</slide>
+		<slide index="24" title="Automatic Fire Alarm and Detection System" titleNormalized="automatic fire alarm and detection system" src="slide25.swf" size="1897" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Automatic Fire Alarm and Detection System
+If a fire alarm activates in any University building, a signal will be sent to the Security lodge. Security lodge will respond to that signal by attending the building (excluding Mary Chapman Court) to investigate and where necessary call the Fire and Rescue Service.
+Security will attend the building within 3 minutes and complete their investigation into the cause of the alarm within 2 minutes of attending.
+Should Security fail to attend the building within 3 minutes Security will call the Fire and Rescue Service and request their attendance.</text>
+		</slide>
+		<slide index="25" title="Building Structure and Preventing Fire Spread" titleNormalized="building structure and preventing fire spread" src="slide26.swf" size="41870" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Building Structure and Preventing Fire Spread
+Most of the buildings at the University are very large and have several floors. These buildings are divided into fire resisting compartmentation and sub-compartments which are designed to limit the spread of fire and smoke, both vertically from floor to floor and horizontally along corridors. Although the fire resisting compartment walls will not be obvious to you, the fire doors that also make up the compartmentation should be. These fire doors are clearly labelled to indicate their status. The different types are shown below.
+Self-closing doors
+
+These are spring operated and close automatically once they have been passed through, so to maintain the compartmentation. Fire doors are there to protect escape routes and are found in corridors and staircase/lift lobbies. 
+
+Automatic fire doors
+
+These doors are found mainly in corridors in areas where there is constant and a high volume of foot traffic or where trollies are used extensively. They are held open on magnetic retainers linked into the fire alarm system. The doors will close automatically on activation of the fire alarm system maintaining the fire compartmentation.</text>
+		</slide>
+		<slide index="26" title="Fire Doors" titleNormalized="fire doors" src="slide27.swf" size="38540" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Fire Doors
+Locked fire doors
+These doors are usually installed where security is required, for example between schools in the teaching wall. They are fitted with a locking mechanism that will automatically release on activation of the fire alarm to allow egress to a safe place in the event of a fire. 
+Locked fire door
+Some fire doors such as those to storage cupboards, service risers and plant rooms are also locked. These doors are key locked and marked with the words Fire door keep locked shut. 
+All these doors have a green box located next to the door which can be used to release the lock in an emergency.</text>
+		</slide>
+		<slide index="27" title="Fire Doors" titleNormalized="fire doors" src="slide28.swf" size="28679" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Fire Doors
+Never wedge a fire door open. If there is a need to have a fire door held open it must be fitted with a hold open device that is linked to the fire alarm system. Where there is no legislative requirement for a device such as this, it must be funded by the individual School/Department requesting the device.
+
+Staff wedging/obstructing a fire door open can be prosecuted under the Regulatory Reform (Fire Safety) Order 2005.</text>
+		</slide>
+		<slide index="28" title="Fire Doors" titleNormalized="fire doors" src="slide29.swf" size="70429" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Fire Doors
+A fire door is a door with a fire-resistant rating used as part of a passive fire protection system to reduce the spread of fire or smoke between compartments and enable the safe egress from a building.
+
+
+
+
+
+
+
+
+</text>
+		</slide>
+		<slide index="29" title="Fire Escape Route" titleNormalized="fire escape route" src="slide30.swf" size="2511" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Fire Escape Route
+The Corridor
+All corridors in buildings form part of a fire evacuation route. They are designed to be wide enough that all building occupants can evacuate safely within a specific time. Obstructing these corridors with materials or furniture could significantly impact on the evacuation time, putting the lives of the occupants at risk. Corridors must be kept clear at all times. 
+The Fire Exit Door
+Fire Exit doors are clearly labelled so that they are easily visible. In the event of a fire the building occupants must be able to use these exit doors. A blocked exit door may result in the occupants having to find an alternative means of escape, resulting in a delayed evacuation and putting the lives of the occupants at risk. It is imperative that fire exit doors are kept clear at all times. 
+The Stairwell
+Stairwells are constructed to provide a place of safety (30 minutes fire resistant) and allow occupants to safely evacuate the building in the event of a fire alarm. They may also be used as a refuge where a person with a disability may wait until the incident is resolved or they are assisted down the stairs to the outside of the building by a nominated person/Security Officer. Stairwells must be kept sterile, therefore the storing of any items in these areas is strictly prohibited.</text>
+		</slide>
+		<slide index="30" title="Fire Escape Routes" titleNormalized="fire escape routes" src="slide31.swf" size="60104" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Fire Escape Routes
+Control Measures:
+Do not store equipment or materials in corridors, lift/staircase lobbies or stairwells.
+Never obstruct a fire exit.
+If you see a blocked fire exit, corridor stairwell etc. please ensure that it is cleared immediately (even if it is not you that blocked it) and report the incident to your Line Manager and/or to Safety Services.
+The university buildings and fire safety arrangements are designed to achieve these requirements
+If you have any concerns regarding escape routes contact Safety Services for advice.</text>
+		</slide>
+		<slide index="31" title="How to React to the Fire Alarm" titleNormalized="how to react to the fire alarm" src="slide32.swf" size="29406" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How to React to the Fire Alarm
+When the fire alarm sounds, leave your area and follow the nearest green fire exit signs. Do not go back to other work areas to collect any belongings. Follow the direction of each fire exit sign and you will reach the fire exit via the safest and fastest route. Make sure you are familiar with the nearest exits to your work area. 
+Do not use the lifts in order to leave the building. They do not provide a safe means of escape. 
+Once out of the building assemble at the area specified on the fire action notices. This will normally be a location well away from the building. Ensure you are familiar with the location of your assembly point.
+Do not attempt to re-enter the building until a fire warden, Security Officer or Fire Officer says it is safe to do so, even if the fire alarm has stopped.</text>
+		</slide>
+		<slide index="32" title="Actions on Discovering a Fire" titleNormalized="actions on discovering a fire" src="slide33.swf" size="28396" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Actions on Discovering a Fire
+
+
+Shout fire fire-fire, break the glass of the nearest call point, use a fire extinguisher if you are confident and it is safe to do so, exit the building.
+
+
+
+If possible, and only from a safe place, call 999 then 2222 (01603 592222 if external or mobile) and inform security that is a fire. If possible inform them of the location building area and the cause.</text>
+		</slide>
+		<slide index="33" title="Fire Warden Responsibility" titleNormalized="fire warden responsibility" src="slide34.swf" size="1893" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Fire Warden Responsibility
+Most University buildings have Fire Wardens, the tasks that a Fire warden must undertake in the event of a fire/fire alarm are as follows:
+
+Assist with efficient &amp; effective clearance of building
+Liaison with/reporting to the Senior Fire Warden 
+Looking out for fire safety issues locally on a day to day basis
+Reporting fire safety issues and fire related defects
+
+In the event of a fire/fire alarm activation, staff must follow the instructions of the Fire Wardens or Security Officer.</text>
+		</slide>
+		<slide index="34" title="Fire Drills" titleNormalized="fire drills" src="slide35.swf" size="1740" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Fire Drills
+Fire drills are carried out to ensure: 
+
+Familiarity of occupants with sounding the alarm
+Familiarity of occupants with how the alarm sounds &amp; its meaning
+Familiarity of occupants in identifying ‘Fire Exit’ routes
+Familiarity of occupants with different door release mechanisms
+Identification of problems that might hinder evacuation</text>
+		</slide>
+		<slide index="35" title="Why we need fire fighting equipment" titleNormalized="why we need fire fighting equipment" src="slide36.swf" size="2228" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Why we need fire fighting equipment
+The University provides fire extinguishers and fire blankets (where appropriate) throughout its buildings. This provision is dependent on the type of fire risks in any particular area. Fire fighting equipment is provided to assist anyone:
+Whose means of escape is blocked by fire and there is no alternative escape route. 
+To assist anyone who feels confident to tackle a small fire (no larger than a waste paper bin is recommended).
+Practical hands on fire extinguisher training is recommended for individuals working in high fire risk areas such as chemical laboratories, catering kitchens where heated fats and oils are used and for those involved in hot work such as welding. 
+There is no expectation of anyone to fight a fire. The following action is recommended:
+Raise the alarm! 
+Get out! 
+Stay out!
+If you should need to use a fire extinguisher, it is important you select the correct one for the type of fire you are tackling.</text>
+		</slide>
+		<slide index="36" title="Fire Extinguishers" titleNormalized="fire extinguishers" src="slide37.swf" size="132591" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Fire Extinguishers
+Safety pin</text>
+		</slide>
+		<slide index="37" title="General Rules When Operating a Fire Extinguisher" titleNormalized="general rules when operating a fire extinguisher" src="slide38.swf" size="1906" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>General Rules When Operating a Fire Extinguisher
+Ensure the extinguisher is the correct type for the fire (check label)
+Remove the safety pin
+Test the fire extinguisher, a safe distance from the fire to make sure it works correctly
+Take the fire extinguisher to the fire
+Aim at the base of the fire and squeeze the discharge levers
+
+Only attempt to extinguish a fire if you feel confident and the fire is no bigger than a waste paper bin. 
+Never put yourself at risk!</text>
+		</slide>
+		<slide index="38" title="Types of Fire Fighting Equipment" titleNormalized="types of fire fighting equipment" src="slide39.swf" size="14672" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Types of Fire Fighting Equipment
+There are several types of extinguishers in various locations around the University. You should familiarise yourselves with the type and location of the fire extinguishers in your work area.
+Although there are several different types of fire extinguisher around the University, they are all coloured RED. Fire extinguishers are red to comply with current European legislation, however to identify what media the fire extinguisher contains, 10% of the body colour or the handle must reflect the contents.  
+Additionally throughout the UEA, there will be fire blankets, these are mainly located within kitchens.</text>
+		</slide>
+		<slide index="39" title="Use the Correct Type of Fire Fighting Equipment" titleNormalized="use the correct type of fire fighting equipment" src="slide40.swf" size="69989" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Use the Correct Type of Fire Fighting Equipment</text>
+		</slide>
+		<slide index="40" title="Risk Protection Measures – Persons Requiring Assistance" titleNormalized="risk protection measures – persons requiring assistance" src="slide41.swf" size="94139" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Risk Protection Measures – Persons Requiring Assistance
+Personal Emergency Evacuation Plan (PEEP’s)</text>
+		</slide>
+		<slide index="41" title="Persons Requiring Assistance" titleNormalized="persons requiring assistance" src="slide42.swf" size="2562" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Persons Requiring Assistance
+The Equality Act 2010, is in place to ensure that no-one is discriminated against, this includes anyone who may have a disability of any kind. 
+To ensure that, as far as is reasonably practicable the University complies with this duty, all staff and students who are identified as having a disability, must have a personal emergency evacuation plan (PEEP’S). 
+To ensure that this plan is in place the relevant School/Department is to immediately contact University Safety Services (peep@uea.ac.uk) and arrange for a PEEP’s to be carried out.
+University Safety Service are responsible for developing and reviewing all PEEP’S.</text>
+		</slide>
+		<slide index="42" title="Wrong Charger Cause of Explosion in Hampshire House" titleNormalized="wrong charger cause of explosion in hampshire house" src="slide43.swf" size="41833" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Wrong Charger Cause of Explosion in Hampshire House
+An explosion that destroyed part of a home in Hampshire has been traced to a charger used to power an e-cigarette.
+Investigators found an "unbranded" USB charger plugged into the decimated bedroom in Southampton Road, Ringwood.
+They said the overheated e-cigarette started a fire, which led to the explosion of an air horn canister. Hampshire Fire and Rescue investigator Dan Tasker said: "The consequences of using the wrong charger with the wrong device can be devastating."</text>
+		</slide>
+		<slide index="43" title="Cheap Chargers Putting People and Homes at Risk" titleNormalized="cheap chargers putting people and homes at risk" src="slide44.swf" size="26344" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Cheap Chargers Putting People and Homes at Risk
+Safety experts are warning that the rise of cheap chargers for electrical items like mobile phones, laptops and even e-cigarettes could be putting people and their properties at risk.
+It comes after three generations of one family died in a house fire in Sheffield.
+The fire is likely to have been caused by a faulty electrical charger.</text>
+		</slide>
+		<slide index="44" title="Clapham House Fire Caused by Crystal Doorknob" titleNormalized="clapham house fire caused by crystal doorknob" src="slide45.swf" size="73439" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Clapham House Fire Caused by Crystal Doorknob
+A house fire was caused by sunlight refracting through a crystal doorknob.
+The fire in Clapham, south London, was started when the sun's refracted rays shone onto a dressing gown, which then set alight.
+The house was empty at the time and a smoke alarm alerted nearby builders, who called the fire brigade.
+The blaze was the latest of several fires in London started by household fittings.</text>
+		</slide>
+		<slide index="45" title="Example" titleNormalized="example" src="slide46.swf" size="28883" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Example
+A homeowner who killed a spider by setting it alight had to call 999 after her house caught fire.
+The woman had called a relative for help to remove a spider from her home in Kenfig Hill, Bridgend.
+They first tried to kill the spider by spraying it with an aerosol and then they set it on fire.
+But as they did so, the house caught alight. In a tweet, South Wales Fire Service warned others not to remove spiders using "lit aerosols".</text>
+		</slide>
+		<slide index="46" title="Reporting Fire-Related Issues and Defects" titleNormalized="reporting fire-related issues and defects" src="slide47.swf" size="40052" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Reporting Fire-Related Issues and Defects
+Email
+Jobdone@uea.ac.uk 
+Safetyservices@uea.ac.uk
+
+Web
+UEA Safety Services Portal
+
+</text>
+		</slide>
+		<quiz index="47" title="" titleNormalized="" src="quiz1.swf" size="1518988" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" restartFailedQuiz="0" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+	</slides>
+</presentation>
